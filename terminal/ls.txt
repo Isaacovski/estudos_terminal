@@ -1,0 +1,13 @@
+ls = lista de arquivos e pastas
+
+
+
+-i = mais informacoes
+
+-a = all ate msm arquivos ocultos
+
+-h = human exibir tamanho humano do arquivo
+
+-r = recursive
+
+-s = ordernar por tamanho

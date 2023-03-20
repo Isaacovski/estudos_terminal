@@ -1,0 +1,13 @@
+ 
+man = listar manual sobre
+
+
+
+n lenbro o nome do comando
+
+apropos = abre a documentacao do prompt
+
+navegacao
+q = voltar
+z = prox
+w = voltar

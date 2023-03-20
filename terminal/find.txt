@@ -1,0 +1,18 @@
+find = encontar arquivos ou diretorios
+
+
+
+find . -type d name "*"
+* = qualquer coisa
+*.mp4 = qualquer coisa com mp4 no final
+
+type = tipo de arquivo
+. = procurar nessa pasta
+
+f = para procurar arquivos
+d = para procurar diretorios
+
+
+less = ver oq tem dentro de arquivo
+e modificar
+cat  = printar arquivos no terminal

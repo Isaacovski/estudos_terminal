@@ -1,0 +1,18 @@
+ cp = copiar
+
+ mkdir sites
+
+ cp pasta=  a ultima pasta e pra onde vai os arquivos
+
+ -r fazr copia sem mover arquivos
+
+ mv = mover ou renomear
+
+ -r  = remover para sempre
+ -f  = remover para sempre a forca
+
+
+ wildcards (curinga)
+ * = 1 ou mais caracters
+
+? = 1 caracter

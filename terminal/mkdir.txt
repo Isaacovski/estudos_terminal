@@ -1,0 +1,6 @@
+mkdir = criar um diretorio
+logo apos o comando add nome da pasta
+
+cd = entrar em diretorios
+
+-p = cria pasta pai e filho

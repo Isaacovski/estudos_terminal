@@ -1,0 +1,5 @@
+nano = editor de texto do terminal
+
+
+vim =
+:q =sair do vim

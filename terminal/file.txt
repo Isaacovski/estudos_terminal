@@ -1,0 +1,3 @@
+file = obter informacoes sobre o arquivo
+
+stat = dono modificacoes

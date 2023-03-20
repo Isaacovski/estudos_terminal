@@ -1,0 +1,2 @@
+touch = mudar registro de datta ou hora ou criar varios arquivos de uma vez
+
